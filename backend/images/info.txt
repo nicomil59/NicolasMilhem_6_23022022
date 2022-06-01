@@ -1,0 +1,1 @@
+Le dossier "images" contient les images uploadés par l'utilisateur
